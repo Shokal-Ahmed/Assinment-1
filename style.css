@@ -37,19 +37,23 @@ h1{
 }
 .work-area{
     text-align-last:below;
+    clear: both;
 }
 span{
     color:red;
 }
 .for-img{
-    width:60%;
-    float: right;;
+    width:20%;
+    float:left;;
     margin-left: 45%;
     background-repeat: no-repeat;
+    clear: both;
 }
 .fotter{
-    background:cornsilk;
-     background-size: 20%;
+    
+    width: 100%;
+    
 
 }
+
 
