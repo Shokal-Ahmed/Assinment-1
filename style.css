@@ -1,0 +1,55 @@
+.Name-hilight{
+    color: orangered;
+}
+body{
+    font-family: 'Bebas Neue', cursive;  
+    
+}
+h1{
+    font-size: 40px;
+}
+.link-button{ 
+    text-decoration: none ;
+    background-image:linear-gradient(lightSalmon, tomato) ;
+    padding: 10px 20px;
+    color:#0c0c0cea ;
+     border-radius:5px ;
+     font-weight: 700;
+}
+.top-baner{ 
+    height:500px;
+    padding-bottom:500px;
+}
+.half-width{ 
+    width: 40%;
+    float: left;
+    margin-left:2%;
+    padding: 3%;
+    
+    
+}
+.half-width img{
+    width:100%;
+    margin:20px ;
+}
+.for-p{
+    margin-bottom: 20px;
+}
+.work-area{
+    text-align-last:below;
+}
+span{
+    color:red;
+}
+.for-img{
+    width:60%;
+    float: right;;
+    margin-left: 45%;
+    background-repeat: no-repeat;
+}
+.fotter{
+    background:cornsilk;
+     background-size: 20%;
+
+}
+
