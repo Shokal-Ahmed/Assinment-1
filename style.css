@@ -44,16 +44,17 @@ span{
 }
 .for-img{
     width:20%;
-    float:left;;
-    margin-left: 45%;
     background-repeat: no-repeat;
     clear: both;
+    font:  sans-serif;
+   
+   height: 150px;
+   
 }
-.fotter{
-    
-    width: 100%;
-    
-
+.last-pera{
+    background-image: url(images/last.png);
+    margin-left: 45%;
+    background-origin: shadow 30px;
 }
 
 
